@@ -8,6 +8,7 @@ mode.onclick = function () {
   } else {
     mode.src = "dark theme icon/moon.png";
     document.body.style.background = "#fff";
+    c=true;
 
   }
 };
